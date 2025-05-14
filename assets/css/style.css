@@ -15,7 +15,7 @@
    * COLORS
    */
 
-    --gold-crayola: hsl(357, 61%, 50%); -Red
+    --gold-crayola: hsl(30, 56%, 24%); 
     --quick-silver: hsla(0, 0%, 65%, 1);
     --davys-grey: hsl(348, 100%, 95%); /*hsla(30, 3%, 34%, 1);*/
 
@@ -23,8 +23,8 @@
     --baby-pink-2: hsla(14, 41%, 65%,1);/*hsla(340, 100%, 85%, 1);*/
     --light-pink-1: hsla(190, 43%, 75%,1);/*hsla(350, 100%, 85%, 1);*/
 
-    --light-pink-2: hsla(350, 100%, 75%, 1);
-    --rose-pink-1: hsla(350, 60%, 65%, 1);
+    --light-pink-2: hsl(30, 42%, 59%);
+    --rose-pink-1: hsla(30, 60%, 65%, 1);
     --rose-pink-2: hsla(36, 100%, 97%,1);  /*hsla(350, 60%, 55%, 1);*/
     --hot-pink-1:  hsla(14, 41%, 65%,1);  /*--hot-pink-1: hsla(348, 100%, 95%,1);*/
     --blue: hsla(226,53%,45%,1);
