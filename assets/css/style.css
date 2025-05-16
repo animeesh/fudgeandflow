@@ -27,8 +27,8 @@
     --rose-pink-1: hsla(30, 60%, 65%, 1);
     --rose-pink-2: rgb(229, 187, 125);  /*hsla(350, 60%, 55%, 1);*/
     --hot-pink-1:  hsl(30, 42%, 59%);/*hsla(14, 41%, 65%,1);  /*--hot-pink-1: hsla(348, 100%, 95%,1);*/
-    --blue: hsla(226,53%,45%,1);
-    --purple: hsla(304, 15%, 45%,1);
+    --blue:hsla(45, 35%, 63%, 1);/*hsla(226,53%,45%,1);*/
+    --purple: hsla(12, 73%, 62%,1); /*hsla(304, 15%, 45%,1);*/
 
     --smoky-black-1: hsla(40, 12%, 5%, 1);
     --smoky-black-2: hsla(30, 8%, 5%, 1);
@@ -44,7 +44,7 @@
     --black: hsla(0, 0%, 0%, 1);
     --black-alpha-80: hsla(0, 0%, 0%, 0.8);
     --black-alpha-15: hsla(0, 0%, 0%, 0.15);
-
+  
     /**
    * GRADIENT COLOR
    */
